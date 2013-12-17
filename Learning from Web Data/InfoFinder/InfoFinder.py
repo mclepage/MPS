@@ -23,8 +23,9 @@ def printOut(st, file):
 
     
 
-f = open('Findings.txt', 'a')
-f.write("\n Start session: "+printTime()+"\n \n")
+f=open("mythos.csv",'wb')
+writer=csv.writer(f)
+writer.writerow('Name', 'Origin', 'Description', 'URL')
 
 looping = 1
 while(looping):

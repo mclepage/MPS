@@ -1,0 +1,6 @@
+Out final project, a persistance of vision based clock built with an Arduino Uno, a ton of 3-color LEDs, and a slightly underclocked case fan. See it in action here: http://www.youtube.com/watch?v=uHCdIYHZ560
+
+The code is kind of a mess (lots of hard coded LED variables to improve arduino run times, as processing time was a major limiting factor [the Uno was a poor choice]). Schematic is lost online ATM.
+
+Built with Evan Respaut and Joe Montanino
+

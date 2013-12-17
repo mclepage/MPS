@@ -9,7 +9,7 @@ else:
 	
 fmkey=raw_input("Last.fm key (blank for default): ")	
 if fmkey=="":
-	fmkey="api_key=b25b959554ed76058ac220b7b2e0a026"
+	fmkey="api_key=9568bc1b5cf4f554c3d3cc7477d67dce"
 else:
 	fmkey="api_key="+fmkey
 	
@@ -18,8 +18,8 @@ tkey=raw_input("TinySong key (blank for none): ")
 artist = raw_input("Artist Name: ")
 track = raw_input("Track Name: ")
 if artist == "" and track == "":
-	artist = "temper trap"
-	track = "sweet disposition"
+	artist = "Temper Trap"
+	track = "Sweet Disposition"
 div='\n'+"--------------------------------------------------------------------------"+'\n'
 div=div+div
 testing=1
@@ -194,7 +194,10 @@ def billboardSearch(track = "", artist="", limit=5, stime=2010, etime=""):
 	key=bkey
 	print url+query+key
 	search_results = urllib.urlopen(url+query+key)
-	json=simplejson.loads(search_results.read())
+	try:
+		json=simplejson.loads(search_results.read())
+	except:
+		return "Billboard failed"
 	json=json["searchResults"]["chartItem"]
 	simplifiedjson=[]
 	for c in json:
@@ -203,7 +206,7 @@ def billboardSearch(track = "", artist="", limit=5, stime=2010, etime=""):
 	return simplifiedjson
 
 
-if testing and testbill and 1:
+if testing and testbill and 0:
 	print div
 	print "billboardSearch(title, artist)): "+ printJson(billboardSearch(track, artist))
 
@@ -216,10 +219,16 @@ def getSimilarTracks(trackname):
 	simTracks = lastfmTrackSimilar(track, artist)
 	simTracksSpotified = []
 	for track in simTracks:
+		print simTracks
 		simTracksSpotified+=spotifyTrackQuery(track["track"], 1)
 	print div
 	print "getSimilarTracks:"
 	print printJson(simTracks)
 	print printJson(simTracksSpotified)
+	print div
+	print "Results for " + trackname + " by " + artist + ":"
+	print "\n Last.fm recommends:"
+	for track in simTracksSpotified:
+		print track["track"] + " - " + track["artist"] + ", " + track["year"] + " (" + track["popularity"] + ")"
 	
 getSimilarTracks(track)

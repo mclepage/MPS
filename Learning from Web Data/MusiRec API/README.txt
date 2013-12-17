@@ -1,6 +1,19 @@
-A quick API i wrote up for aggregating data from various music sites. General goal was to lead into a music recommendation project, but more likely now that I'll be doing some sort of temporal popularity script to see the effects of touring on a given bands popularity.
 
-Copy/Paste from assignment post-mortem:
+A quick API i wrote up for aggregating data from various music sites. Example output:
+EDIT 9/5/12: Looks like Billboard integration is broken now, and the lastFM public API is shut down. Plz don't steal my lfm key.
+
+
+Results for Sweet Disposition by The Temper Trap
+
+ Last.fm recommends:
+Love Lost - The Temper Trap, 2009 (0.65)
+Fader - The Temper Trap, 2009 (0.65)
+There Goes The Fear - Doves, 2009 (0.55)
+Tongue Tied - Grouplove, 2011 (0.74)
+Cough Syrup - Young the Giant, 2010 (0.75)
+
+
+Copy/Paste from assignment write-up:
 
 Grooveshark/TinyShark: The TinyShark API, which is smaller and more public than the official grooveshark api to which I have yet to be granted an access key (applied a week ago), is basically just an imput manager. Of the systems I could find, it was the only one that would take a string that could be an artist name or an album name or a track name or any combination of the three and would try to guess which specific tracks I was interested in. This seemed useful, as it effectively outsources nearly all input management.
 Billboard: The rather unpredictable Billboard API allows for specific searches on the Billboard chart database, allowing you to look up whether a given artist or track was ever on their top 100 (or some absurd number of other "top" lists they have) over a specified span of time. The only problem with this tool is that it has a tendency to default in cases where other systems would simply return nothing, showing the current top tracks, which is made worse by it's dependency on knowing both track name, artist name, and the time span in which the track or artist might have made the charts; there is no real open ended search tool. This means that some after the fact parsing will be necessary to make sure it isn't sending back completely wrong data. All that said, when it does work the data about if/when an artist made the top charts and how long that stayed up there could lead to some interesting analysis, perhaps looking into large scare trends over time, as Billboard is the only tool that has any sort of temporal element to its data.
