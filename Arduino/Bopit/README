@@ -1,0 +1,7 @@
+An implementation of the handheld rhythm game Bop It (http://www.youtube.com/watch?v=Zaw6PqhQbNc) with various sensors we've used. Basically, the speaker plays a series of tones that specifies with input is to be activated, and the user must hit that input before too much time has passed. A speaker blips at a beat that gets faster and faster as the game progresses. The input mechanisms used were the flex sensor, the light sensor, the button, and a potentiometer.
+
+The LED is used to track a sort of heath for the user, starting solid green and changing color on each mistake the player makes, going from green to green-blue to blue to purple to red. If a fifth mistake is made, the game is considered lost, and the speaker will play loss melody followed by a number of tones corresponding to the number of correct responses the user made before making too many mistakes. If the user manages to get through all 5 rounds (ranging in tempo [time between beats] from 1 second to .5 seconds), a victory melody is played.
+
+
+Video:
+http://youtu.be/m5W0xAKraXk
