@@ -1,0 +1,749 @@
+(dp0
+S'Foster the People'
+p1
+(lp2
+(dp3
+S'city'
+p4
+VNorfolk
+p5
+sS'title'
+p6
+V96X Winter Meltdown
+p7
+sS'country'
+p8
+VUnited States
+p9
+sS'long'
+p10
+S'-76.301293'
+p11
+sS'lat'
+p12
+S'36.884147'
+p13
+sS'date'
+p14
+I1322715600
+sa(dp15
+g4
+VTampa, FL
+p16
+sg6
+V97X Next Big Thing
+p17
+sg8
+VUnited States
+p18
+sg10
+S'-82.371035'
+p19
+sg12
+S'27.989543'
+p20
+sg14
+I1322888400
+sa(dp21
+g4
+VMinneapolis
+p22
+sg6
+VFoster the People
+p23
+sg8
+VUnited States
+p24
+sg10
+S'-93.275979'
+p25
+sg12
+S'44.978749'
+p26
+sg14
+I1322974800
+sa(dp27
+g4
+VMinneapolis
+p28
+sg6
+V101.3 KDWB's Jingle Ball
+p29
+sg8
+VUnited States
+p30
+sg10
+S'-93.274889'
+p31
+sg12
+S'44.979657'
+p32
+sg14
+I1322974800
+sa(dp33
+g4
+VSeattle
+p34
+sg6
+V107.7 The End's Deck the Hall Ball 2011
+p35
+sg8
+VUnited States
+p36
+sg10
+S'-122.352215'
+p37
+sg12
+S'47.621178'
+p38
+sg14
+I1323234000
+sa(dp39
+g4
+VColumbus
+p40
+sg6
+VDave & Jimmy's Jingle Ball 2011 
+p41
+sg8
+VUnited States
+p42
+sg10
+S'-83.010375'
+p43
+sg12
+S'39.969817'
+p44
+sg14
+I1323320400
+sa(dp45
+g4
+VNew York
+p46
+sg6
+VZ100's Jingle Ball 2011
+p47
+sg8
+VUnited States
+p48
+sg10
+S'-73.897424'
+p49
+sg12
+S'40.677885'
+p50
+sg14
+I1323406800
+sa(dp51
+g4
+VSunrise
+p52
+sg6
+VJingle Ball
+p53
+sg8
+VUnited States
+p54
+sg10
+S'-80.324639'
+p55
+sg12
+S'26.157094'
+p56
+sg14
+I1323493200
+sa(dp57
+g4
+VUniversal City
+p58
+sg6
+VKROQ Almost Acoustic Christmas 2011 Night Two
+p59
+sg8
+VUnited States
+p60
+sg10
+S'-118.359308'
+p61
+sg12
+S'34.141965'
+p62
+sg14
+I1323579600
+sa(dp63
+g4
+VHonolulu
+p64
+sg6
+VFoster the People
+p65
+sg8
+VUnited States
+p66
+sg10
+S'-157.865877'
+p67
+sg12
+S'21.306306'
+p68
+sg14
+I1332043200
+sa(dp69
+g4
+VChula Vista, CA
+p70
+sg6
+VThe Beach Boys with Foster The People
+p71
+sg8
+VUnited States
+p72
+sg10
+S'-117.008901'
+p73
+sg12
+S'32.588035'
+p74
+sg14
+I1337918400
+sa(dp75
+g4
+VNew York
+p76
+sg6
+VFoster the People
+p77
+sg8
+VUnited States
+p78
+sg10
+S'-73.973651'
+p79
+sg12
+S'40.772002'
+p80
+sg14
+I1338264000
+sa(dp81
+g4
+VNew York
+p82
+sg6
+VFoster the People
+p83
+sg8
+VUnited States
+p84
+sg10
+S'-73.973651'
+p85
+sg12
+S'40.772002'
+p86
+sg14
+I1338350400
+sa(dp87
+g4
+VColumbus
+p88
+sg6
+VFoster the People
+p89
+sg8
+VUnited States
+p90
+sg10
+S'-83.010375'
+p91
+sg12
+S'39.969817'
+p92
+sg14
+I1338523200
+sa(dp93
+g4
+VGrand Prairie
+p94
+sg6
+VFoster the People
+p95
+sg8
+VUnited States
+p96
+sg10
+S'-96.983614'
+p97
+sg12
+S'32.766655'
+p98
+sg14
+I1338782400
+sa(dp99
+g4
+VAustin
+p100
+sg6
+VFoster the People
+p101
+sg8
+VUnited States
+p102
+sg10
+S'-97.953058'
+p103
+sg12
+S'30.315195'
+p104
+sg14
+I1338868800
+sa(dp105
+g4
+VAlpharetta
+p106
+sg6
+VFoster the People
+p107
+sg8
+VUnited States
+p108
+sg10
+S'-84.306488'
+p109
+sg12
+S'34.05443'
+p110
+sg14
+I1339041600
+sa(dp111
+g4
+VManchester
+p112
+sg6
+VBonnaroo Music & Arts Festival 2012
+p113
+sg8
+VUnited States
+p114
+sg10
+S'-86.087875'
+p115
+sg12
+S'35.482577'
+p116
+sg14
+I1339041600
+sa(dp117
+g4
+VColumbia, MD
+p118
+sg6
+VFoster the People
+p119
+sg8
+VUnited States
+p120
+sg10
+S'-76.862665'
+p121
+sg12
+S'39.211546'
+p122
+sg14
+I1339300800
+sa(dp123
+g4
+VNew York
+p124
+sg6
+VFoster the People
+p125
+sg8
+VUnited States
+p126
+sg10
+S'-73.973651'
+p127
+sg12
+S'40.772002'
+p128
+sg14
+I1339387200
+sa(dp129
+g4
+VCuyahoga Falls
+p130
+sg6
+V50th Anniversary Tour
+p131
+sg8
+VUnited States
+p132
+sg10
+S'-81.551994'
+p133
+sg12
+S'41.180888'
+p134
+sg14
+I1339560000
+sa(dp135
+g4
+VPhiladelphia
+p136
+sg6
+VFoster the People
+p137
+sg8
+VUnited States
+p138
+sg10
+S'-75.224049'
+p139
+sg12
+S'39.981529'
+p140
+sg14
+I1339646400
+sa(dp141
+g4
+VBoston
+p142
+sg6
+VFoster the People
+p143
+sg8
+VUnited States
+p144
+sg10
+S'-71.035881'
+p145
+sg12
+S'42.348522'
+p146
+sg14
+I1339732800
+sa(dp147
+g4
+VDetroit
+p148
+sg6
+VFoster the People
+p149
+sg8
+VUnited States
+p150
+sg10
+S'-83.052131'
+p151
+sg12
+S'42.337521'
+p152
+sg14
+I1339905600
+sa(dp153
+g4
+VChicago
+p154
+sg6
+VFoster the People
+p155
+sg8
+VUnited States
+p156
+sg10
+S'-87.692431'
+p157
+sg12
+S'41.920004'
+p158
+sg14
+I1340164800
+sa(dp159
+g4
+VChicago
+p160
+sg6
+V6.21 Foster The People w/ Tokyo Police Club 
+p161
+sg8
+VUnited States
+p162
+sg10
+S'-87.692431'
+p163
+sg12
+S'41.920004'
+p164
+sg14
+I1340251200
+sa(dp165
+g4
+VMinneapolis
+p166
+sg6
+VFoster the People
+p167
+sg8
+VUnited States
+p168
+sg10
+S'-93.274889'
+p169
+sg12
+S'44.979657'
+p170
+sg14
+I1340337600
+sa(dp171
+g4
+VSeattle
+p172
+sg6
+VFoster the People
+p173
+sg8
+VUnited States
+p174
+sg10
+S'-122.333257'
+p175
+sg12
+S'47.594171'
+p176
+sg14
+I1340683200
+sa(dp177
+g4
+VTroutdale
+p178
+sg6
+VFoster the People
+p179
+sg8
+VUnited States
+p180
+sg10
+S'-122.409019'
+p181
+sg12
+S'45.538357'
+p182
+sg14
+I1340769600
+sa(dp183
+g4
+VBerkeley
+p184
+sg6
+VFoster the People
+p185
+sg8
+VUnited States
+p186
+sg10
+S'-122.255385'
+p187
+sg12
+S'37.873828'
+p188
+sg14
+I1340942400
+sa(dp189
+g4
+VUniversal City
+p190
+sg6
+VFoster the People
+p191
+sg8
+VUnited States
+p192
+sg10
+S'-118.359308'
+p193
+sg12
+S'34.141965'
+p194
+sg14
+I1341028800
+sa(dp195
+g4
+VUniversal City
+p196
+sg6
+VFoster the People
+p197
+sg8
+VUnited States
+p198
+sg10
+S'-118.359308'
+p199
+sg12
+S'34.141965'
+p200
+sg14
+I1341115200
+sa(dp201
+g4
+VMorrison
+p202
+sg6
+VFoster the People
+p203
+sg8
+VUnited States
+p204
+sg10
+S'-105.191884'
+p205
+sg12
+S'39.67893'
+p206
+sg14
+I1341288000
+sa(dp207
+g4
+VMagna, UT
+p208
+sg6
+VFoster the People
+p209
+sg8
+VUnited States
+p210
+sg10
+S'-112.188327'
+p211
+sg12
+S'40.747111'
+p212
+sg14
+I1341460800
+sa(dp213
+g4
+VPhoenix
+p214
+sg6
+VFoster the People
+p215
+sg8
+VUnited States
+p216
+sg10
+S'-112.079564'
+p217
+sg12
+S'33.448775'
+p218
+sg14
+I1341547200
+sa(dp219
+g4
+VLas Vegas
+p220
+sg6
+VFoster the People
+p221
+sg8
+VUnited States
+p222
+sg10
+S'-115.173654'
+p223
+sg12
+S'36.10962'
+p224
+sg14
+I1341633600
+sa(dp225
+g4
+VMountain View
+p226
+sg6
+V26th Annual Bridge School Benefit
+p227
+sg8
+VUnited States
+p228
+sg10
+S'-122.080722'
+p229
+sg12
+S'37.426718'
+p230
+sg14
+I1350705600
+sa(dp231
+g4
+VHonolulu
+p232
+sg6
+VFoster the People
+p233
+sg8
+VUnited States
+p234
+sg10
+S'-157.844918'
+p235
+sg12
+S'21.294186'
+p236
+sg14
+I1354942800
+sa(dp237
+g4
+VWest Hollywood
+p238
+sg6
+VFoster the People
+p239
+sg8
+VUnited States
+p240
+sg10
+S'-118.389272'
+p241
+sg12
+S'34.08151'
+p242
+sg14
+I1370145600
+sa(dp243
+g4
+VLos Angeles
+p244
+sg6
+VFoster the People
+p245
+sg8
+VUnited States
+p246
+sg10
+S'-118.260135'
+p247
+sg12
+S'34.077448'
+p248
+sg14
+I1370232000
+sa(dp249
+g4
+VDover, DE
+p250
+sg6
+VFirefly Music Festival 2013
+p251
+sg8
+VUnited States
+p252
+sg10
+S'-75.532956'
+p253
+sg12
+S'39.18834'
+p254
+sg14
+I1371787200
+sas.

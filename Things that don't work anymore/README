@@ -1,0 +1,7 @@
+These are old, impressive projects that for whatever reason don't seem to run anymore.
+
+Concert Tracker - A sweet data scraping tool that builds time series data on musician popularity, unfortunately crippled by changes to the Billboard API. Still gets tour dates and whatnot, but without an actual popularity metric there's not much to do.
+
+Weather Scraper - Basically a rip off of flight caster, but the data sets pulled a few gigabytes too large to be uploaded to GitHub (and it's too slow to be worth reviving)
+
+Page Rank - I wrote page rank once?!

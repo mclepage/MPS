@@ -1,0 +1,1 @@
+A machine learning project for what was basically a FlightCaster knockoff. *It didn't work very well.* Outputs massive CSVs that will never be opened again.

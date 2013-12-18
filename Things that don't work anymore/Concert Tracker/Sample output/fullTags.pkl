@@ -1,0 +1,6 @@
+(dp0
+S'Foster the People'
+p1
+S'indie'
+p2
+s.
