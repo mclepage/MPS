@@ -1,7 +1,7 @@
+A quick API i wrote up for aggregating data from various music sites. 
+EDIT 9/5/12: Looks like Billboard integration is broken now, and the lastFM public API is shut down. Pls don't steal my lfm key.
 
-A quick API i wrote up for aggregating data from various music sites. Example output:
-EDIT 9/5/12: Looks like Billboard integration is broken now, and the lastFM public API is shut down. Plz don't steal my lfm key.
-
+Example output (without Billboard):
 
 Results for Sweet Disposition by The Temper Trap
 
